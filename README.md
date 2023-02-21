@@ -1,5 +1,13 @@
-### Hi there 👋
-### profil en cours de création
+##Bonjour 👋
+
+* Issue jeune diplômée depuis 2023  Je suis à la recherche d'une première expérience dans le  développement web,*
+* Je me distingue par ma créativité et mon ambition qui sont des qualités, je la cultive depuis bien longtemps qui m'ont permis d'effectuer une première formation  dans le numérique/multimédia en tant que web designer; *
+
+* Ma curiosité, ma détermination et mon esprit chalengeuse m'ont permis d'exécuter une formation en développement web.*
+* Aujourd’hui, elles me sont utiles pour maintenir ma créativité et mon goût pour ce métier.*
+
+* J’ai eu l’occasion de construire différents projets tels que des sites web en HTML/CSS, JS et  ReactJS, j'ai eu l'opportunité d'apprendre les normes W3C, SEO et de construire une API sécurisée pour une application mobile au cours de cette formation (MongoDB, Javascript).*
+
 
 <!--
 **LaetitiaCroise/LaetitiaCroise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
