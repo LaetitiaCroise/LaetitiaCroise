@@ -1,4 +1,4 @@
-<h1>Bonjour 👋</h1>
+<h2><i>Bonjour 👋</i></h2>
 
 <i> Issue jeune diplômée depuis 2023  Je suis à la recherche d'une première expérience dans le  développement web,</i>
 <i>Je me distingue par ma créativité et mon ambition qui sont des qualités, je la cultive depuis bien longtemps qui m'ont permis d'effectuer une première formation  dans le numérique/multimédia en tant que web designer;</i>
