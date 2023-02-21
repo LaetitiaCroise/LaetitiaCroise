@@ -25,8 +25,6 @@
   <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 
 
-<h2> Divers </h2>
-j'aimes les 🐱 :cat:
 
 
 
