@@ -8,7 +8,11 @@
 
 <i>J’ai eu l’occasion de construire différents projets tels que des sites web en HTML/CSS, JS et  ReactJS, j'ai eu l'opportunité d'apprendre les normes W3C, SEO et de construire une API sécurisée pour une application mobile au cours de cette formation (MongoDB, Javascript).</i>
 
-<b>vous pouvez accéder à mon Linkedin pour en savoir plus sur mon parcours en cliquant sur ce lien [Linkedin Laëtitia](https://www.linkedin.com/in/la%C3%ABtitia-crois%C3%A9-9054a114a/).</b>
+<b><i>vous pouvez accéder à mon Linkedin pour en savoir plus sur mon parcours en cliquant sur ce lien [Linkedin Laëtitia](https://www.linkedin.com/in/la%C3%ABtitia-crois%C3%A9-9054a114a/).</i></b>
+
+###Languages
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 
 
 
