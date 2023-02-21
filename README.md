@@ -6,7 +6,7 @@
 <i> Ma curiosité, ma détermination et mon esprit chalengeuse m'ont permis d'exécuter une formation en développement web.</i>
 <i>Aujourd’hui, elles me sont utiles pour maintenir ma créativité et mon goût pour ce métier.</i>
 
-<i>J’ai eu l’occasion de construire différents projets tels que des sites web en HTML/CSS, JS et  ReactJS, j'ai eu l'opportunité d'apprendre les normes W3C, SEO et de construire une API sécurisée pour une application gastronomique (MongoDB, Javascript). au cours de cette formation</i>
+<i>J’ai eu l’occasion de construire au cours de cette formation différents projets tels que des sites web en HTML/CSS, JS et  ReactJS, j'ai eu l'opportunité d'apprendre les normes W3C, SEO et de construire une API sécurisée pour une application gastronomique (MongoDB, Javascript).</i>
 
 <b><i>vous pouvez accéder à mon Linkedin pour en savoir plus sur mon parcours en cliquant sur ce lien [Linkedin Laëtitia](https://www.linkedin.com/in/la%C3%ABtitia-crois%C3%A9-9054a114a/).</i></b>
 
